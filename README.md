@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HtetAungLinn443?tab=repositories](https://github.com/HtetAungLinn443?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/HtetAungLinn443?tab=repositories)
 
 - 💬 Ask me about **Laravel, JavaScript(JQuery) and Vue.js**
 
