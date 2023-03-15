@@ -11,7 +11,7 @@
     <a href="https://linkedin.com/in/htet-aung-linn-2778b525a" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 alt="htet-aung-linn-2778b525a" height="30" width="40" /></a><a href="https://fb.com/htetaunglinn443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-alt="htetaunglinn443" height="30" width="40" /></a><a href="https://www.youtube.com/ucdtjop6xtjy9eg9f1dx7-lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+alt="htetaunglinn443" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCdTJop6Xtjy9EG9f1DX7-lw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
 alt="ucdtjop6xtjy9eg9f1dx7-lw" height="30" width="40" /></a><a href="https://discord.gg/https://discord.gg/XfAyWyMEp6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
 alt="https://discord.gg/XfAyWyMEp6" height="30" width="40" /></a>
 </p>
