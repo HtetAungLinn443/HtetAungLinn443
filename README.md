@@ -27,7 +27,7 @@
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/HtetAungLinn443?tab=repositories)
 - 💬 Ask me about **Laravel, Next.js, React Native, Ionic/Capacitor, Electron, POS hardware and production DevOps**
 - 📫 How to reach me: **htetaunglinn443@gmail.com**
-- 🌍 My portfolio: [hal-three.vercel.app](https://hal-three.vercel.app/)
+- 🌍 My portfolio: [htetaunglinn.com](https://htetaunglinn.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
